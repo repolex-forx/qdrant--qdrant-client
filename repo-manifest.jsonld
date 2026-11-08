@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/qdrant/qdrant-client/commit/1b5bb8589e5a8c124bcf80164736c7c92370c871",
       "git:hexsha": "1b5bb8589e5a8c124bcf80164736c7c92370c871",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T15:58:40.811332+00:00"
     },
     {
       "@id": "https://repolex.ai/r/qdrant/qdrant-client/commit/bf94745f9579fe91e606d03a2bcbf0a6dc188d71",
